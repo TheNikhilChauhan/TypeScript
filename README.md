@@ -34,4 +34,28 @@
             <li>intersection-Types</li>
         </ul>
     </li>
+    <li>Union Types
+        <ul>
+            <li>Union</li>
+            <li>Literal-Types</li>
+        </ul>
+    </li>
+    <li>Tuples and Enums
+        <ul>
+            <li>Tuples</li>
+            <li>Enums</li>
+        </ul>
+    </li>
+    <li>Classes
+        <ul>
+            <li>annotation-class</li>
+            <li>class-fields</li>
+            <li>readonly-properties</li>
+            <li>Public-modifiers</li>
+            <li>Private-modifiers</li>
+            <li>Parameters-prop</li>
+            <li>Getter-setter</li>
+            <li>Protected</li>
+        </ul>
+    </li>
 </ul>

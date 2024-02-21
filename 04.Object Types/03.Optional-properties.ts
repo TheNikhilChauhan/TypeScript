@@ -1,6 +1,7 @@
+//optionl: ?
 type User = {
   name: string;
-  age: number;
+  age?: number;
   location: string;
 };
 
