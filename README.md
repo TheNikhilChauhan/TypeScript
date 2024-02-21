@@ -25,4 +25,13 @@
             <li>Multidimentional-array</li>
         </ul>
     </li>
+    <li>Object Types
+        <ul>
+            <li>Object-types</li>
+            <li>Type-Aliases</li>
+            <li>Optional-Properties</li>
+            <li>Readonly</li>
+            <li>intersection-Types</li>
+        </ul>
+    </li>
 </ul>
