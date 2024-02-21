@@ -48,14 +48,24 @@
     </li>
     <li>Classes
         <ul>
-            <li>annotation-class</li>
-            <li>class-fields</li>
-            <li>readonly-properties</li>
+            <li>Annotation-class</li>
+            <li>Class-fields</li>
+            <li>Readonly-properties</li>
             <li>Public-modifiers</li>
             <li>Private-modifiers</li>
             <li>Parameters-prop</li>
             <li>Getter-setter</li>
             <li>Protected</li>
+        </ul>
+    </li>
+    <li>Interfaces
+        <ul>
+            <li>Interface</li>
+            <li>Interface for function</li>
+            <li>Interface with method</li>
+            <li>Extending Interface</li>
+            <li>Interface for classes</li>
+            <li>Interface extension</li>
         </ul>
     </li>
 </ul>
