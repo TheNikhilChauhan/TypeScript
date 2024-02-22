@@ -68,4 +68,13 @@
             <li>Interface extension</li>
         </ul>
     </li>
+    <li>Generics
+        <ul>
+            <li>First-generic</li>
+            <li>Second-generic</li>
+            <li>Generic-with-MultipleTypes</li>
+            <li>Type-Constraints</li>
+            <li>Generic-classes</li>
+        </ul>
+    </li>
 </ul>
