@@ -20,4 +20,4 @@ const movei1: MovieGenra = {
 
 const res = movei1.printMovieInfo("Thor", 100, 9);
 console.log(res);
-console.log(movei1);
+console.log(movei1.genra);
