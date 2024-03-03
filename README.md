@@ -77,4 +77,11 @@
             <li>Generic-classes</li>
         </ul>
     </li>
+    <li>Type Narrowing
+        <ul>
+            <li>type-guard</li>
+            <li>instanceOf-operator</li>
+            <li>Intersection-types</li>
+        </ul>
+    </li>
 </ul>
